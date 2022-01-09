@@ -1,0 +1,3 @@
+u_id	user_name	first_name	last_name	gender	mail_id
+1	subhash	subhash	chandra	M	subhash.chandra@gma.com
+2	bhagat	bhagat	singh	M	bhagat.singh@gam.com
